@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 abc fruits and apples
+=======
+abc cba
+ab 
+>>>>>>> 2a1bcc452ab8e9a96bdab1ce9f6c5e9689f53ef4
